@@ -29,7 +29,7 @@ The goal is to gain **firsthand experience** designing and implementing **multi-
 Key skills and themes I’m practicing here:
 - Designing an agent system around **constraints** (token limits, tool reliability, API error modes, recursion depth, latency).
 - Making **tradeoffs** between “clean architecture” vs. “shipping something usable.”
-- Defining **scope boundaries** so the system stays controllable (e.g., a capped research refinement loop instead of infinite self-improvement).
+- Defining **scope boundaries** so the system stays controllable (e.g., a capped research refinement loop instead of infinite self-improvement). Yes... this was a problem.
 - Building a custom research workflow that behaves like a small team:
   - a planner that decomposes the objective,
   - an executor that gathers evidence,
