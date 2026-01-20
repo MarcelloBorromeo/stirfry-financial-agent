@@ -1,4 +1,4 @@
-**DEVELOPMENT** – 2 days planning, 2 days execution
+## **DEVELOPMENT** – 2 days planning, 2 days execution
 
 <img width="1512" height="816" alt="StirFry Contemplating" src="https://github.com/user-attachments/assets/4b1df3e5-ac4d-4b47-aabb-b8550410784c" />
 
