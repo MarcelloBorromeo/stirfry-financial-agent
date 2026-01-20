@@ -1,0 +1,10 @@
+langchain-openai
+langgraph
+langchain-community
+langgraph-checkpoint-postgres
+yfinance
+supabase
+streamlit
+psycopg-pool
+python-dotenv
+tavily-python
