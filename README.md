@@ -4,12 +4,12 @@
 <img width="2268" height="1124" alt="image" src="https://github.com/user-attachments/assets/3b99d14b-b758-4945-91ed-246598a4e895" />
 
 # StirFry 🍳  
-Marcello’s stateful financial researcher — a Streamlit app that combines a portfolio-aware chat assistant with a custom-built LangGraph-style multi-agent workflow.
+Marcello’s stateful financial researcher — a Streamlit app that combines a portfolio-aware chat assistant with a custom-built LangGraph multi-agent workflow.
 
 ## What this repo is
 StirFry is a financial assistant that can operate in two modes:
 
-- **Conversational (“Geeked”)**: quick answers, tool-augmented chat, and lightweight reasoning.
+- **Conversational [Geeked]**: quick answers, tool-augmented chat, and lightweight reasoning.
 - **Locked [Research] (“deep_research”)**: a structured multi-step research loop that plans, executes tool calls, reflects on gaps, and synthesizes a final report.
 
 The app is intentionally **stateful**:
@@ -24,7 +24,7 @@ The UI is also custom-styled (avatars, chat styling, a “System Logs” status 
 ## Intent (why I built this)
 This project is primarily a learning build!
 
-The goal is to gain **firsthand experience** designing and implementing **multi-agent systems from scratch**—not just calling frameworks, but making real architectural decisions and dealing with the consequences.
+The goal was to gain **firsthand experience** designing and implementing **multi-agent systems from scratch**—not just calling frameworks, but making real architectural decisions and dealing with tradeoffs.
 
 Key skills and themes I’m practicing here:
 - Designing an agent system around **constraints** (token limits, tool reliability, API error modes, recursion depth, latency).
