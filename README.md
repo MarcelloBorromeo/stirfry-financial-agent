@@ -1,4 +1,5 @@
 <img width="1512" height="816" alt="StirFry Contemplating" src="https://github.com/user-attachments/assets/4b1df3e5-ac4d-4b47-aabb-b8550410784c" />
+
 <img width="2268" height="1124" alt="image" src="https://github.com/user-attachments/assets/3b99d14b-b758-4945-91ed-246598a4e895" />
 
 # StirFry 🍳  
