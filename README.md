@@ -117,8 +117,6 @@ Because multi-agent systems fail in predictable ways unless you design for them:
 - Long chat histories can blow context windows and crash the session.
 - “Smart” agents still need boring engineering: validation, caps, routing logic, and deterministic fallback behavior.
 
-This repo treats those failure modes as part of the product design, not edge cases.
-
 ---
 
 ## Memory & history hygiene (one of the main engineering constraints)
@@ -128,5 +126,3 @@ The point is practical: when an LLM emits tool calls, the model/tool message seq
 - keeps only a bounded number of recent messages,
 - ensures tool call ↔ tool result pairs are valid,
 - drops orphan tool messages and malformed tool-call sequences.
-
-This is one of the places where the repo is explicitly about **systems constraints** rather than “prompting harder.”
